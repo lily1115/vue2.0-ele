@@ -1,7 +1,6 @@
 # my-ele vue2.0
 > sell app tools dev by vue.js 2.0 with webpack desc
 
-** 高仿饿了么饿了吗app的商家页 **
 [课程地址：http://coding.imooc.com/class/74.html](http://coding.imooc.com/class/74.html) 
 
 ## Build Setup
